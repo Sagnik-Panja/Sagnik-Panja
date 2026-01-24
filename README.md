@@ -1,4 +1,4 @@
-![logo](https://github.com/Sagnik-Panja/Sagnik-Panja/blob/main/BANNER%20GITHUB.png)
+![logo](https://github.com/Sagnik-Panja/Sagnik-Panja/blob/main/Banner%20git.png)
 <h1 align="center">Hi 👋, I'm Sagnik Panja</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
