@@ -12,7 +12,7 @@
 
 - 📫 How to reach me :- **panjasagnik28@gmail.com**
 
-- ⚡ Fun fact:- **I am Funny😅**
+- ⚡ Fun fact:- **The first computer bug was actually a moth! 🐛💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
